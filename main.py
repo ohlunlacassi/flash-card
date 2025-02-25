@@ -2,7 +2,6 @@ from tkinter import *
 import pandas
 import random
 
-from debugpy.common.timestamp import current
 
 BACKGROUND_COLOR = "#B1DDC6"
 FONT_NAME = "Arial"
